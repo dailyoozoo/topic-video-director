@@ -1,0 +1,4 @@
+interface:
+  display_name: "主题讲解视频导演"
+  short_description: "从主题搜索到脚本与分镜两次确认，再用可复用素材制作并检查讲解视频"
+  default_prompt: "使用 $topic-video-director 制作主题讲解视频，先搜索并提交脚本供我确认，再设计关键镜头供我确认，最后制作和检查成片。"
